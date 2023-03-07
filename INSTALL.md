@@ -1,4 +1,4 @@
-### [hyprland](https://hyprland.org)
+### [Hyprland](https://hyprland.org)
 
 #### Install using Git
 

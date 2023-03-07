@@ -1,6 +1,6 @@
-# Dracula for [hyprland](https://hyprland.org)
+# Dracula for [Hyprland](https://hyprland.org)
 
-> A dark theme for [hyprland](https://hyprland.org).
+> A dark theme for [Hyprland](https://hyprland.org).
 
 ![Screenshot](./screenshot.png)
 
